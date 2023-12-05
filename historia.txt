@@ -1,3 +1,5 @@
 Hola que paso
 
 Errores frecuentes
+
+Aprendiendo a utilizar gits
