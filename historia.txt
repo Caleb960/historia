@@ -6,4 +6,8 @@ Aprendiendo a utilizar gits
 
 Aqui inicia la cabecera
 
+
 Aqui incia el commit luego del merge ...continuacion
+
+
+
