@@ -12,6 +12,6 @@ Aqui incia el commit luego del merge ...continuacion
 Aqui edito con git hub
 
 
-Aqui iniciaaa el commit desde main a origin main
+Aqui inicia el commit desde main a origin main
 
 Aqui
